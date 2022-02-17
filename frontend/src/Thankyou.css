@@ -1,0 +1,17 @@
+.thankyou{
+    margin: 80px;
+}
+.thankyou >h1{
+    font-size:100px;
+}
+
+
+
+.thumbsup {
+    color: crimson !important;
+    font-size: 80px !important;
+    margin-top: 20px;
+    margin-left : 50%;
+
+  }
+  
